@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *.pyc
+.idea
 
 
 
@@ -67,10 +68,12 @@ target/
 *.DS_Store
 *.venv
 *.venv2
+.wttd
 
 .venv/
 staticfiles/
 .ipynb_checkpoints/
 .idea/
+.wttd/
 
 *.pyc
